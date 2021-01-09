@@ -1,19 +1,16 @@
 # simple-jesque
 
-Simple jeque project for getting started with jeque
+Simple project for getting started with jesque
 
 # Start redis in local for mac users:
-brew install redis
-redis-server
-
-# install maven if not already installed:
-brew install maven
+terminal> brew install redis
+terminal> redis-server
 
 # build project:
-mvn clean package
+terminal> mvn clean package
 
 # start producer
-java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleConsumer
+terminal> java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleConsumer
 
 # start consumer
-java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleProducer
+terminal> java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleProducer
