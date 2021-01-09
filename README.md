@@ -12,5 +12,5 @@ Simple project for getting started with jesque
 ### start producer
 - `java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleConsumer`
 
-- ### start consumer
-`java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleProducer`
+### start consumer
+- `java -cp target/simple-jesque-1.0-SNAPSHOT.jar example.SimpleProducer`
