@@ -1,4 +1,5 @@
-/Users/shashank.bt/flipkart/FDP-migration/src/main/java/entity/WMEntity.java
-/Users/shashank.bt/flipkart/FDP-migration/src/main/java/service/FetchService.java
-/Users/shashank.bt/flipkart/FDP-migration/src/main/java/dao/WMEntityDAO.java
-/Users/shashank.bt/flipkart/FDP-migration/src/main/java/Driver.java
+/Users/shashank.bt/flipkart/FDP-migration/src/main/java/medium/JesqueConfig.java
+/Users/shashank.bt/flipkart/FDP-migration/src/main/java/medium/SimpleJob.java
+/Users/shashank.bt/flipkart/FDP-migration/src/main/java/medium/SimpleProducer.java
+/Users/shashank.bt/flipkart/FDP-migration/src/main/java/medium/SimpleConsumer.java
+/Users/shashank.bt/flipkart/FDP-migration/src/main/java/medium/SimpleWork.java
